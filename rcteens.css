@@ -1,0 +1,707 @@
+body{
+background-image:URL("D:/rcteens/joker.jpg");
+color:white;
+background-repeat: no-repeat ;
+background-position:fill;
+background-size:1550px 15500px;
+font-famiy:forte;
+}
+.joke{
+background-image:URL("D:/rcteens/h.jpg");
+}
+h1{ 
+color:#66BFBF;
+font-family:forte;
+font-size:50px;
+}
+
+h2{ 
+color:#66BFBF;
+}
+
+h3{ 
+color:#588D9C;
+}
+
+h4{ 
+color:#66BFBF;
+}
+
+h5{ 
+color:#66BFBF;
+}
+
+h6{ 
+color:#66BFBF;
+}
+
+hr {
+border-style :none ;
+border-width: 3px;
+border-height: 50%;
+border-color:red;
+}
+
+/*--#for id--*/
+#logo{
+border-radius:100%;
+background-color:none;
+height: 25%;
+width : 20%;
+}
+
+#project{
+font-size:300%;
+}
+
+/* Style the form */
+#regForm {
+  background-color:#F1D18A;
+  margin: 100px auto;
+  padding: 40px;
+  width: 70%;
+  min-width: 300px;
+}
+button {
+    background-color:  #588D9C;
+    border: 0px;
+}
+button:hover {
+    background-color:  gold;
+    border: 0px;
+}
+/* Style the input fields */
+input {
+  padding: 10px;
+  width: 100%;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #36626A;
+  background-color: #36626A;
+}
+#hi{ 
+ color:white;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 0px 0px;
+  color:#588D9C;
+}
+
+.sonic{
+width: 75%;
+border-radius: 50px;
+}
+a:hover {
+  background-color: gold;
+  color: black;
+}
+.ceo:hover{
+ background-color: white;
+  padding: 0px 0px;
+}
+.previous {
+  background-color:  #588D9C;
+  color: black;
+}
+
+.next {
+  background-color: #588D9C;
+  color: white;
+}
+
+.round {
+  border-radius: 100%;
+}
+.About{
+position:bottom;
+color:indigo;
+padding:5px;
+padding:3px;
+display:none;}
+.follow{
+display:none;
+}
+
+/* Mark input boxes that gets an error on validation: */
+input.invalid {
+  background-color: white;
+}
+
+/* Hide all steps by default: */
+
+img{
+border-radius: 16px;
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none; 
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+/* Mark the active step: */
+.step.active {
+  opacity: 1;
+}
+/* Mark the steps that are finished and valid: */
+.step.finish {
+  background-color: #04AA6D;
+}
+
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    font-size: 15px;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+body.darkpagetheme .w3-white {
+    background-color: #1d2a35!important;
+    color: #ddd!important;
+}
+.w3-white, .w3-hover-white:hover {
+    color: #000!important;
+    background-color: #fff!important;
+}
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    color: #000!important;
+    background-color: #f1f1f1!important;
+}
+body.darkpagetheme {
+    background-color: #1d2a35!important;
+    color: #ddd!important;
+}
+html, body {
+    font-family: forte;
+    font-size: 15px;
+    line-height: 1.5;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+element.style {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: block;
+}
+.w3-modal {
+    z-index: 3;
+    display: none;
+    padding-top: 100px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body.darkpagetheme .w3-white {
+    background-color: #1d2a35!important;
+    color: #ddd!important;
+}
+.w3-white, .w3-hover-white:hover {
+    color: #000!important;
+    background-color: #fff!important;
+}
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    color: #000!important;
+    background-color: #f1f1f1!important;
+}
+body.darkpagetheme {
+    background-color: #1d2a35!important;
+    color: #ddd!important;
+}
+html, body {
+    font-family: forte;
+    font-size: 15px;
+    line-height: 1.5;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body.darkpagetheme {
+    background-color: #1d2a35!important;
+    color: #ddd!important;
+}
+html, body {
+    font-family: forte;
+    font-size: 15px;
+    line-height: 1.5;
+}
+body {
+    margin: 10px;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body.darkpagetheme {
+    background-color: #1d2a35!important;
+    color: #ddd!important;
+}
+html, body {
+    font-family: forte;
+    font-size: 15px;
+    line-height: 1.5;
+}
+body {
+    margin: 2.5%;
+font-size:25px;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.w3-green, .w3-hover-green:hover {
+    color: #fff!important;
+    background-color: #4CAF50!important;
+}
+.w3-padding-16 {
+    padding-top: 16px!important;
+    padding-bottom: 16px!important;
+}
+.w3-opacity-min {
+    opacity: 0.75;
+}
+.w3-block {
+    display: block;
+    width: 100%;
+}
+.w3-btn, .w3-button {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.w3-btn, .w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+button, [type=button], [type=reset], [type=submit] {
+    -webkit-appearance: button;
+}
+button, select {
+    text-transform: none;
+}
+button, input {
+    overflow: visible;
+}
+button, input, select, textarea, optgroup {
+    font: inherit;
+    margin: 0;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+style attribute {
+    max-width: 600px;
+    cursor: auto;
+}
+style attribute {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: block;
+}
+body.darkpagetheme .w3-white {
+    background-color: #1d2a35!important;
+    color: #ddd!important;
+}
+.w3-white, .w3-hover-white:hover {
+    color: #000!important;
+    background-color: #fff!important;
+}
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    color: #000!important;
+    background-color: #f1f1f1!important;
+}
+body.darkpagetheme {
+    background-color: #1d2a35!important;
+    color: #ddd!important;
+}
+html, body {
+    font-family:  forte;
+    font-size: 25px;
+    line-height: 1.5;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+   * {box-sizing: border-box}
+   
+   /* style the container */
+   .container {
+   position: relative;
+   border-radius: 5px;
+   background-color: #f2f2f2;
+   padding: 20px 0 30px 0;
+   }
+   
+   /* style inputs and link buttons */
+   input,
+   .btn {
+   width: 100%;
+   padding: 12px;
+   border: none;
+   border-radius: 4px;
+   margin: 5px 0;
+   opacity: 0.85;
+   display: inline-block;
+   font-size: 17px;
+   line-height: 20px;
+   text-decoration: none; /* remove underline from anchors */
+   }
+   
+   input:hover,
+   .btn:hover {
+   opacity: 1;
+   }
+   
+   /* add appropriate colors to fb, twitter and google buttons */
+   .fb {
+   background-color: #3B5998;
+   color: white;
+   }
+   
+   .twitter {
+   background-color: #55ACEE;
+   color: white;
+   }
+   
+   .google {
+   background-color: #dd4b39;
+   color: white;
+   }
+   
+   /* style the submit button */
+   input[type=submit] {
+   background-color: #04AA6D;
+   color: white;
+   cursor: pointer;
+   }
+   
+   input[type=submit]:hover {
+   background-color: #45a049;
+   }
+   
+   /* Two-column layout */
+   .col {
+   float: left;
+   width: 50%;
+   margin: auto;
+   padding: 0 50px;
+   margin-top: 6px;
+   }
+   
+   /* Clear floats after the columns */
+   .row:after {
+   content: "";
+   display: table;
+   clear: both;
+   }
+   
+   /* vertical line */
+   .vl {
+   position: absolute;
+   left: 50%;
+   transform: translate(-50%);
+   border: 2px solid #ddd;
+   height: 175px;
+   }
+   
+   /* text inside the vertical line */
+   .inner {
+   position: absolute;
+   top: 50%;
+   transform: translate(-50%, -50%);
+   background-color: #f1f1f1;
+   border: 1px solid #ccc;
+   border-radius: 50%;
+   padding: 8px 10px;
+   }
+   
+   /* hide some text on medium and large screens */
+   .hide-md-lg {
+   display: none;
+   }
+   
+   /* bottom container */
+   .bottom-container {
+   text-align: center;
+   background-color: #666;
+   border-radius: 0px 0px 4px 4px;
+   }
+   
+   /* Responsive layout - when the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other */
+   @media screen and (max-width: 650px) {
+   .col {
+   width: 100%;
+   margin-top: 0;
+   }
+   /* hide the vertical line */
+   .vl {
+   display: none;
+   }
+   /* show the hidden text on small screens */
+   .hide-md-lg {
+   display: block;
+   text-align: center;
+   }
+   }
+#kolo{
+border-radius:100%;
+width:10%;}
+/* The Overlay (background) */
+.overlay {
+  /* Height & width depends on how you want to reveal the overlay (see JS below) */   
+  height: 100%;
+  width: 0;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  background-color: rgb(0,0,0); /* Black fallback color */
+  background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+  position: relative;
+  top: 25%; /* 25% from the top */
+  width: 100%; /* 100% width */
+  text-align: center; /* Centered text/links */
+  margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+/* The navigation links inside the overlay */
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block; /* Display block instead of inline */
+  transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+/* When you mouse over the navigation links, change their color */
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
+.icon-bar {
+  width: 90px; /* Set a specific width */
+  background-color: #555; /* Dark-grey background */
+}
+
+.icon-bar a {
+  display: block; /* Make the links appear below each other instead of side-by-side */
+  text-align: center; /* Center-align text */
+  padding: 16px; /* Add some padding */
+  transition: all 0.3s ease; /* Add transition for hover effects */
+  color: white; /* White text color */
+  font-size: 36px; /* Increased font-size */
+}
+
+.icon-bar a:hover {
+  background-color: #000; /* Add a hover color */
+}
+
+.active {
+  background-color: #04AA6D; /* Add an active/current color */
+}
+@media (min-width: 601px)
+.w3-col.m3, .w3-quarter {
+    width: 24.99999%;
+}
+.icon-bar {
+  width: 100%; /* Full-width */
+  background-color: #555; /* Dark-grey background */
+  overflow: auto; /* Overflow due to float */
+}
+
+.icon-bar a {
+  float: left; /* Float links side by side */
+  text-align: center; /* Center-align text */
+  width: 20%; /* Equal width (5 icons with 20% width each = 100%) */
+  padding: 12px 0; /* Some top and bottom padding */
+  transition: all 0.3s ease; /* Add transition for hover effects */
+  color: white; /* White text color */
+  font-size: 36px; /* Increased font size */
+}
+
+.icon-bar a:hover {
+  background-color: GOLD; /* Add a hover color */
+}
+
+.active {
+  background-color: #FCFEFE; /* Add an active/current color */
+}
+.icon-barh {
+    width: 100%;
+    text-align: center;
+    background-color: #555;
+    z-index: 1;
+    overflow: auto;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.w3-white, .w3-hover-white:hover {
+    color: #000!important;
+    background-color: #fff!important;
+}
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    color: #000!important;
+    background-color: #f1f1f1!important;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
